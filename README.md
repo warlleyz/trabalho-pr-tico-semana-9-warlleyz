@@ -19,9 +19,9 @@ Projeto simples de um catálogo de produtos em formato de cards, utilizando Java
 * JavaScript
 
 ## Prints
-[PRODUTOS_RENDERIZADOS]()
-[DETALHES_PRODUTO]()
-[CONSOLE]()
+[PRODUTOS_RENDERIZADOS](img/PRODUTOS_RENDERIZADOS.png)
+[DETALHES_PRODUTO](img/DETALHES_PRODUTO.png)
+[CONSOLE](img/CONSOLE.png)
 
 ## Como executar
 1. Abra o arquivo `index.html` no navegador
